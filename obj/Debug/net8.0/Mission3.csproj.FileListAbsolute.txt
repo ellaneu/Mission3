@@ -1,0 +1,14 @@
+/Users/ellaneumarker/RiderProjects/Mission3/bin/Debug/net8.0/Mission3
+/Users/ellaneumarker/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.deps.json
+/Users/ellaneumarker/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.runtimeconfig.json
+/Users/ellaneumarker/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.dll
+/Users/ellaneumarker/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.pdb
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfoInputs.cache
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfo.cs
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.dll
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/refint/Mission3.dll
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.pdb
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.genruntimeconfig.cache
+/Users/ellaneumarker/RiderProjects/Mission3/obj/Debug/net8.0/ref/Mission3.dll
