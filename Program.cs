@@ -132,6 +132,8 @@ internal class Program
                 foreach (FoodItem items in foodInventory)
                 {
                     items.Print();
+                    
+                    //test comment
                 }
             }
         }
